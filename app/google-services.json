@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21766948612",
+    "project_id": "debank-30f09",
+    "storage_bucket": "debank-30f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21766948612:android:455cfe089647bd16817251",
+        "android_client_info": {
+          "package_name": "com.example.applogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyWyqDGaKDgB4jcImaRxdTaHjt6YcB_6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
