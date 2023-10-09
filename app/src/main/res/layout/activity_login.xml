@@ -28,6 +28,7 @@
         android:ems="10"
         android:hint="Email"
         android:inputType="text|textEmailAddress"
+        android:paddingTop="70dp"
         android:textColorHint="@color/black" />
 
     <EditText
@@ -46,6 +47,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/back_botton"
+        android:onClick="validarAutenticacao"
         android:shadowColor="#FDFDFD"
         android:text="Login"
         android:textColorHighlight="#040202"

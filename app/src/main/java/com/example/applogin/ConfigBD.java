@@ -8,7 +8,7 @@ public class ConfigBD {
 
     public static FirebaseAuth Firebaseverif(){
         if (auth == null){
-            auth =FirebaseAuth.getInstance();
+            auth = FirebaseAuth.getInstance();
         }
         return auth;
     }
